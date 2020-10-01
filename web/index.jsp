@@ -11,6 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  <a href="user/list">lal</a>
+    <a href="###">lal</a>
+
   </body>
 </html>
